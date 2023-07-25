@@ -1,0 +1,140 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@400;500;600&family=Raleway:wght@600&display=swap");
+* {
+  list-style-type: none !important;
+  text-decoration: none !important;
+}
+.ff_monts {
+  font-family: "Montserrat Alternates", sans-serif;
+}
+.ff_raleway {
+  font-family: "Raleway", sans-serif;
+}
+:root {
+  --fs-xsm: 14px;
+  --fs-sm: 16px;
+  --fs-md: 18px;
+  --fs-xl: 20px;
+  --fs-2xl: 24px;
+  --fs-3xl: 28px;
+  --fs-4xl: 32px;
+  --fs-5xl: 42px;
+  --fs-6xl: 44px;
+  --fs-7xl: 62px;
+  /*  */
+  --clr-primary: #fafafa;
+  --clr-secondary: #232323;
+  --clr-lightyellow: #fff9e4;
+  --clr-white: #ffffff;
+  --clr-lightwhite: #fffcf6;
+  --clr-darkgrey: #3c3c3c;
+  --clr-yellow: #ffcf23;
+  --clr-darkyellow: #988353;
+  --clr-lightgrey: #504f4f;
+  --clr-black: #000;
+  --clr-grey: #d9d9d9;
+  /*  */
+  --lh-150: 150%;
+  /*  */
+  --opacity01: 0.1;
+  --opacity02: 0.2;
+  --opacity05: 0.5;
+  --opacity06: 0.69;
+  --opacity08: 0.89;
+}
+.fs_xsm {
+  font-size: var(--fs-xsm);
+}
+.fs_sm {
+  font-size: var(--fs-sm);
+}
+.fs_md {
+  font-size: var(--fs-md);
+}
+.fs_xl {
+  font-size: var(--fs-xl);
+}
+.fs_2xl {
+  font-size: var(--fs-2xl);
+}
+.fs_3xl {
+  font-size: var(--fs-3xl);
+}
+.fs_4xl {
+  font-size: var(--fs-4xl);
+}
+.fs_5xl {
+  font-size: var(--fs-5xl);
+}
+.fs_6xl {
+  font-size: var(--fs-6xl);
+}
+.fs_7xl {
+  font-size: var(--fs-7xl);
+}
+/*  */
+.opacity01 {
+  opacity: var(--opacity01);
+}
+.opacity02 {
+  opacity: var(--opacity02);
+}
+.opacity05 {
+  opacity: var(--opacity05);
+}
+.opacity06 {
+  opacity: var(--opacity06);
+}
+.opacity08 {
+  opacity: var(--opacity08);
+}
+.transition300 {
+  transition: var(--trans-300);
+}
+.lh_103 {
+  line-height: var(--lh-103);
+}
+.lh_126 {
+  line-height: var(--lh-126);
+}
+.lh_150 {
+  line-height: var(--lh-150);
+}
+.border_light_bleck {
+  border-color: var(--border-light-black);
+}
+.clr_primary {
+  color: var(--clr-primary);
+}
+.clr_secondary {
+  color: var(--clr-secondary);
+}
+.clr_lightyellow {
+  color: var(--clr-lightyellow);
+}
+.clr_lightwhite {
+  color: var(--clr-lightwhite);
+}
+.clr_darkgrey {
+  color: var(--clr-darkgrey);
+}
+.clr_yellow {
+  color: var(--clr-yellow);
+}
+.clr_darkyellow {
+  color: var(--clr-darkyellow);
+}
+.clr_lightgrey {
+  color: var(--clr-lightgrey);
+}
+.clr_grey {
+  color: var(--clr-grey);
+}
+.bg_lightyellow {
+  background-color: var(--clr-lightyellow);
+}
+.bg_secondary {
+  background-color: var(--clr-secondary);
+}
+.bg_lightwhite {
+  background-color: var(--clr-lightwhite);
+}
